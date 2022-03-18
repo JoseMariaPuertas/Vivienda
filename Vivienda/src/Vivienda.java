@@ -121,7 +121,4 @@ public class Vivienda
     public void setPropietario(String propietario) {
         this.propietario = propietario;
     }
-    public void prueba(){
-        System.out.println("Esto es una prueba");
-    }
 }
